@@ -1,0 +1,38 @@
+body {
+    margin-top: 25px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 25px;
+    padding: 0px;
+
+}
+
+
+
+.head_color {
+    color: blanchedalmond;
+    padding: 10px;
+
+}
+
+.author_name {
+    color: rgb(55, 215, 255);
+    font-weight: 400;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.body_1 {
+    background-color: rebeccapurple;
+    padding: 20px;
+    border: 45px solid blue;
+    border-radius: 10px;
+
+}
+
+.body_1 p {
+    color: white;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
